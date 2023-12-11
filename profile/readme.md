@@ -9,4 +9,4 @@ Through this project, we believe that everyone deserves access to an adequate fo
 ## Deployments
 
 - Production: [https://turahan.ziakode.com/](https://turahan.ziakode.com/)
-- Development: [https://turahan-cb23-ps003.github.io/frontend/](http://localhost:3000](https://turahan-cb23-ps003.github.io/frontend)https://turahan-cb23-ps003.github.io/frontend)
+- Development: [https://turahan-cb23-ps003.github.io/frontend/](https://turahan-cb23-ps003.github.io/frontend)
